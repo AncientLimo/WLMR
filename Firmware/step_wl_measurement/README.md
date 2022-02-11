@@ -1,3 +1,3 @@
 # INSTRUCTIONS
 
-Load this file in the computer
+Load this folder in the computer
